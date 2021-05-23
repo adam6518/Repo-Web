@@ -1,0 +1,68 @@
+#btn-logout {
+    /* width: 100px; */
+    margin-left: 30px;
+}
+
+#nav2 {
+    border-top: 1px solid black ;
+    border-bottom: 1px solid black ;
+    background-color: #dce0cd;
+}
+
+#nav3 {
+    border-bottom: 1px solid black ;
+}
+
+#logo {
+    display: flex;
+}
+
+.gambar {
+    border-radius: 50%;
+    margin-right: 15px;
+}
+
+.explore {
+    text-align: center;
+    margin-top: 150px;
+}
+
+.round {
+  border-radius: 15px;
+  background: whitesmoke;
+  text-align: center;
+  width: 500px;
+  height: 50px;
+}
+
+.btn-group {
+    width: 500px;
+}
+
+#updates {
+    margin-top: 200px;
+    border-top: 1px solid black ;
+    border-bottom: 1px solid black ;
+    height: 300px;
+}
+
+#popular {
+    border-left:1px solid black ;
+}
+
+.hello-teacher {
+    display: flex;
+    margin: auto 0 auto auto;
+}
+
+.masterdatafield {
+    text-align: center;
+}
+
+.round {
+    border-radius: 15px;
+    background: whitesmoke;
+    text-align: center;
+    width: 500px;
+    height: 50px;
+  }

@@ -1,0 +1,14 @@
+.headline-login {
+    text-align: center;
+}
+
+.card {
+    margin-top: 200px;
+    margin-bottom: auto;
+}
+
+.button-login {
+    float: right;
+    width: 100px;
+    margin-bottom: 20px;
+}

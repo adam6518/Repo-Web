@@ -1,0 +1,23 @@
+#form {
+    width: 700px;
+}
+
+.button-create {
+    /* margin-left: 170px; */
+    text-align: center;
+}
+
+#btn-save {
+    width: 100px;
+}
+#btn-cancel {
+    width: 100px;
+}
+
+#example {
+    font-style: italic;
+}
+
+#studentname {
+    font-size: 12px;
+}
